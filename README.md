@@ -8,3 +8,6 @@ This repository contains the tasks that I'm completing while working as an inter
 
 # Task-1: IRIS Flowers Classification ML Project.
 _Worked with this dataset: https://bit.ly/2WNyEob_
+
+# Task-2: Image to Pencil Sketch with Python.
+_Worked with opencv-python_
