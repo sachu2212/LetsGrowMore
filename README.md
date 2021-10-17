@@ -11,3 +11,6 @@ _Worked with this dataset: https://bit.ly/2WNyEob_
 
 # Task-2: Image to Pencil Sketch with Python.
 _Worked with opencv-python_
+
+# Task-3: Exploratory Data Analysis on Dataset - Terrorism.
+_Worked with this dataset: https://bit.ly/2TK5Xn5_
