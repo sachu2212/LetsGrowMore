@@ -14,3 +14,6 @@ _Worked with opencv-python_
 
 # Task-3: Exploratory Data Analysis on Dataset - Terrorism.
 _Worked with this dataset: https://bit.ly/2TK5Xn5_
+
+# Task-4: Prediction using Decision Tree  Algorithm.
+_Worked with this dataset: https://bit.ly/3kXTdox_
