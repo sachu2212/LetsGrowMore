@@ -1,6 +1,6 @@
 # LetsGrowMore
 
-This repository contains the tasks that I'm completing while working as an intern for @LetsGrowMore.
+This repository contains the tasks that I'm completed while working as an intern for @LetsGrowMore.
 
 * Internship Category - Data Science and Business Analytics Intern
 * Internship Duration - 1 Month ( October 2021 )
@@ -17,3 +17,5 @@ _Worked with this dataset: https://bit.ly/2TK5Xn5_
 
 # Task-4: Prediction using Decision Tree  Algorithm.
 _Worked with this dataset: https://bit.ly/3kXTdox_
+
+Thank you!
